@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Islam Ashraf</h1>
 <h3 align="center">Flutter Developer | Dart Expert | UI/UX Designer</h3>
-<img align="right" alt="Coding" width="400" src="[https://lottiefiles.com/free-animation/blue-hacker-nXeOSctTp7(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)")>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamashraf011&label=Profile%20views&color=0e75b6&style=flat" alt="islamashraf011" /> </p>
 
 - 🌱 I’m currently learning **Flutter Development**
